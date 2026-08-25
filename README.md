@@ -2,7 +2,8 @@
 
 Полный русский перевод игры [Dokimon: Quest](https://store.steampowered.com/app/2019300/Dokimon/) для Steam-версии.
 
-![скриншот](screenshots/dialogue.png)
+![скриншот](<img width="1273" height="716" alt="dialogue" src="https://github.com/user-attachments/assets/6a59380c-eac3-468e-b476-d83603764b2c" />
+)
 
 ## ✨ Что переведено
 
